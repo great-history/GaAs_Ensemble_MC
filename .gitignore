@@ -1,0 +1,15 @@
+# MATLAB temporary files
+*.asv
+*.m~
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Windows files
+Thumbs.db
+Desktop.ini

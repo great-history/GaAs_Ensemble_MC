@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.17)  13 MAY 2025 23:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.17)  19 NOV 2026 16:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1302,9 +1302,6 @@ File: figures/20250513_211244_vel_pop_ene_Ez.pdf Graphic file (type pdf)
  [6] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./ECE845_Final_Project.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `ECE845_Final_Project.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 

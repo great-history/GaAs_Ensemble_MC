@@ -19,19 +19,27 @@ Representative figures from the project report. Click each image to open the ori
 
 **Scattering rates.** Energy-dependent ADP, POP, and intervalley scattering rates for electrons in the Γ valley.
 
-<a href="ECE845_Final_Project/figures/20250512_130907_scattering_rate_G_valley.pdf"><img src="ECE845_Final_Project/figures/20250512_130907_scattering_rate_G_valley.png" alt="Scattering rates in the Gamma valley versus electron energy" width="70%"></a>
+<p align="center">
+  <a href="ECE845_Final_Project/figures/20250512_130907_scattering_rate_G_valley.pdf"><img src="ECE845_Final_Project/figures/20250512_130907_scattering_rate_G_valley.png" alt="Scattering rates in the Gamma valley versus electron energy" width="50%"></a>
+</p>
 
 **Transient drift velocity.** Ensemble drift-velocity magnitude at selected fields from 0.5 to 15 kV/cm, showing pronounced velocity overshoot at higher fields.
 
-<a href="ECE845_Final_Project/figures/20250513_224937_vel_time_all_curves_valley04.pdf"><img src="ECE845_Final_Project/figures/20250513_224937_vel_time_all_curves_valley04.png" alt="Ensemble drift velocity versus time at different electric fields" width="70%"></a>
+<p align="center">
+  <a href="ECE845_Final_Project/figures/20250513_224937_vel_time_all_curves_valley04.pdf"><img src="ECE845_Final_Project/figures/20250513_224937_vel_time_all_curves_valley04.png" alt="Ensemble drift velocity versus time at different electric fields" width="50%"></a>
+</p>
 
 **Valley transfer.** At 8 kV/cm, electrons redistribute from the initially occupied Γ valley into L and X as the ensemble approaches steady state.
 
-<a href="ECE845_Final_Project/figures/20250513_200850_Ez_8000V_cm_energy_pop.pdf"><img src="ECE845_Final_Project/figures/20250513_200850_Ez_8000V_cm_energy_pop.png" alt="Gamma, L, and X valley occupation versus time at 8 kV per cm" width="70%"></a>
+<p align="center">
+  <a href="ECE845_Final_Project/figures/20250513_200850_Ez_8000V_cm_energy_pop.pdf"><img src="ECE845_Final_Project/figures/20250513_200850_Ez_8000V_cm_energy_pop.png" alt="Gamma, L, and X valley occupation versus time at 8 kV per cm" width="50%"></a>
+</p>
 
 **Steady-state transport.** Drift velocity, valley occupation, and mean kinetic energy versus electric field. The velocity peaks and then decreases as the satellite-valley populations increase.
 
-<a href="ECE845_Final_Project/figures/20250513_211244_vel_pop_ene_Ez.pdf"><img src="ECE845_Final_Project/figures/20250513_211244_vel_pop_ene_Ez.png" alt="Steady-state velocity, valley occupation, and kinetic energy versus electric field" width="70%"></a>
+<p align="center">
+  <a href="ECE845_Final_Project/figures/20250513_211244_vel_pop_ene_Ez.pdf"><img src="ECE845_Final_Project/figures/20250513_211244_vel_pop_ene_Ez.png" alt="Steady-state velocity, valley occupation, and kinetic energy versus electric field" width="70%"></a>
+</p>
 
 ## Model and Method
 
